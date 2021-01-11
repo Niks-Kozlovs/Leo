@@ -22,6 +22,7 @@ function App() {
         <Link to="/VietnesDatortiklaPlusma">16.Kādas datortīkla plūsmas notiek, atverot Tīmekļa vietni.</Link>
         <Link to="/CiscoIOS">17.Cisco IOS lietošana un iekārtas konfigurēšana.</Link>
         <Link to="/DatortikluDrosiba">18.Datoru tīklu drošība.</Link>
+        <Link to="/LietuInternets">Lietu internets</Link>
     </div>
   );
 }

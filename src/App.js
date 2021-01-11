@@ -18,6 +18,7 @@ import DNSServ from './Pages/15_DNS';
 import Vietne from './Pages/16_VietneDatortiki';
 import CiscoLietosana from './Pages/17_CiscoLietosana';
 import TikluDros from './Pages/18_DatoruTikluDrosiba';
+import LietuInternets from './Pages/LietuInternets';
 import HomePage from './HomePage';
 import './reset.scss';
 
@@ -82,6 +83,9 @@ function App() {
           </Route>
           <Route path="/DatortikluDrosiba">
             <TikluDros />
+          </Route>
+          <Route path="/LietuInternets">
+            <LietuInternets />
           </Route>
         </Switch>
     </div>
