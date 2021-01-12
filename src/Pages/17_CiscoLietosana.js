@@ -6,7 +6,17 @@ function Osi() {
   return (
     <div className="CiscoLietosana">
       <h1>17.Cisco IOS lietošana un iekārtas konfigurēšana</h1>
-      <h2>Īsumā būs</h2>
+      <h2>Īsumā</h2>
+      <p>Runāšanas punkti:</p>
+      <ul>
+        <li>Kas ir IOS - OS CISCO ierīcēs</li>
+        <li>Kur var konfigurēt iekārtas (Konsole, SSH, Telnet)</li>
+        <li>Konsoles taustiņi (keybinds)</li>
+        <li>Exec režīmi un Global config</li>
+        <li>Ko darīt uzstādot jaunu CISCO iekārtu</li>
+      </ul>
+      <p>Vēl bija jautājumi kāda ir starpība start rūtera un switcha IP likšanu</p>
+      <p>Kā uzlikt IP uz switcha</p>
       <h2>Garumā</h2>
       <p dir="ltr" id="docs-internal-guid-a497e38e-7fff-3479-5c4c-ef5063f1d223">
           Cisco IOS (Internetwork Operating System) ir tīkla operētājsistēma, kuru
